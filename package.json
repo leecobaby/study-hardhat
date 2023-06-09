@@ -1,0 +1,11 @@
+{
+  "name": "study-hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "c": "^2.0.2",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.13.0"
+  }
+}
