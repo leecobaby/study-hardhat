@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "c": "^2.0.2",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "dotenv": "^16.1.4",
     "ethers": "^5.4.7",
     "hardhat": "^2.13.0"
   }
